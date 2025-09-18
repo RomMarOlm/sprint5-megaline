@@ -25,13 +25,17 @@ genera más ingresos, usando datos reales de llamadas, mensajes e internet duran
    ```bash
    git clone https://github.com/RomMarOlm/sprint5-megaline.git
    cd sprint5-megaline
+   
 Instalar dependencias:
 
 pip install -r requirements.txt
+
 Abrir el notebook principal:
 
 notebooks/sprint5-megaline.ipynb
+
 📊 Resultado
+
 El plan Ultimate genera más ingresos por usuario/mes gracias a su cuota base alta y estable.
 
 El plan Surf obtiene ingresos adicionales por excedentes de datos, pero no supera a Ultimate en promedio.
