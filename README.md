@@ -11,12 +11,9 @@ genera más ingresos, usando datos reales de llamadas, mensajes e internet duran
 
 ├── notebooks
 │ ├── sprint5-megaline.ipynb
-│ └── proyectospring5RomuloMartinez2908251319rev0.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
----
 
 ## 🧭 Cómo usar
 
@@ -25,22 +22,23 @@ genera más ingresos, usando datos reales de llamadas, mensajes e internet duran
    ```bash
    git clone https://github.com/RomMarOlm/sprint5-megaline.git
    cd sprint5-megaline
-   
-Instalar dependencias:
 
-pip install -r requirements.txt
+   Instalar dependencias:
 
-Abrir el notebook principal:
+   pip install -r requirements.txt
 
-notebooks/sprint5-megaline.ipynb
+   Abrir el notebook principal:
+
+   notebooks/sprint5-megaline.ipynb
 
 📊 Resultado
 
 El plan Ultimate genera más ingresos por usuario/mes gracias a su cuota base alta y estable.
 
-El plan Surf obtiene ingresos adicionales por excedentes de datos, pero no supera a Ultimate en promedio.
+El plan Surf obtiene ingresos adicionales por excedentes de datos, pero no supera a Ultimate en promedio
 
 🛠️ Dependencias
+
 pandas
 
 numpy
