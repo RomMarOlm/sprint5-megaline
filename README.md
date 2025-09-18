@@ -10,7 +10,7 @@ genera más ingresos, usando datos reales de llamadas, mensajes e internet duran
 ## 📌 Contenido del repositorio
 
 ├── notebooks
-│ ├── sprint5-megaline.ipynb
+│ └── sprint5-megaline.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
